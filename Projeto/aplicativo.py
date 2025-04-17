@@ -6,14 +6,9 @@ from kivy.uix.image import Image
 from kivy.clock import Clock
 from kivy.properties import StringProperty
 import re
-from kivy.lang import Builder
-from kivymd.app import MDApp
 from kivy.uix.boxlayout import BoxLayout
-from kivy.lang import Builder
-from kivymd.app import MDApp
 from kivymd.uix.screen import MDScreen
 from kivymd.uix.navigationdrawer import MDNavigationDrawer, MDNavigationLayout
-from kivymd.uix.button import MDIconButton
 from kivymd.uix.list import OneLineListItem  
 
 KV = '''
